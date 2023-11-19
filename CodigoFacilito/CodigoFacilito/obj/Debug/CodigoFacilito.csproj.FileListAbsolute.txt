@@ -1,0 +1,7 @@
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\CodigoFacilito\bin\Debug\CodigoFacilito.exe.config
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\CodigoFacilito\bin\Debug\CodigoFacilito.exe
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\CodigoFacilito\bin\Debug\CodigoFacilito.pdb
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\CodigoFacilito\obj\Debug\CodigoFacilito.csproj.AssemblyReference.cache
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\CodigoFacilito\obj\Debug\CodigoFacilito.csproj.CoreCompileInputs.cache
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\CodigoFacilito\obj\Debug\CodigoFacilito.exe
+C:\UPC\PRO2-UPC-HOMEWORK\CodigoFacilito\CodigoFacilito\obj\Debug\CodigoFacilito.pdb
