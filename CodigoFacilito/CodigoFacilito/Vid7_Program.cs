@@ -4,15 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/*
 namespace Presentacion5
 {
-    class Vid6_Program
+    class Vid7_Program
     {
         static void Main(string[] args)
         {
-            Vid6_Empleados empleado;
-            empleado = new Vid6_Empleados();
+            Vid7_Empleados empleado;
+            empleado = new Vid7_Empleados();
             empleado.Edad = 20;
             empleado.Nombre = "Ereli Ruiz";
             empleado.SueldoDiario = 12.5m;
@@ -25,4 +24,3 @@ namespace Presentacion5
         }
     }
 }
-*/

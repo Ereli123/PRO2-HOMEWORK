@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E65DDE9D-44F6-47BE-AB96-26FE6CC739F7}</ProjectGuid>
+    <ProjectGuid>{BDC2E341-2BDD-4AC5-9CEA-C2B8CF0A2F13}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CodigoFacilito</RootNamespace>
-    <AssemblyName>CodigoFacilito</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,15 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Vid6_Empleados.cs" />
-    <Compile Include="Vid7_Program.cs" />
-    <Compile Include="Vid7_Empleados.cs" />
-    <Compile Include="Video3.cs" />
-    <Compile Include="Video2.cs" />
+    <Compile Include="Programacion2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Video4.cs" />
-    <Compile Include="Video5.cs" />
-    <Compile Include="Vid6_Program.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
