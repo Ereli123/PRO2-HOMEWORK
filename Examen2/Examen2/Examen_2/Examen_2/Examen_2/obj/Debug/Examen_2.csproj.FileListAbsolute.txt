@@ -1,0 +1,7 @@
+C:\UPC\PRO2-UPC-HOMEWORK\Examen2\Examen2\Examen_2\Examen_2\Examen_2\bin\Debug\Examen_2.exe.config
+C:\UPC\PRO2-UPC-HOMEWORK\Examen2\Examen2\Examen_2\Examen_2\Examen_2\bin\Debug\Examen_2.exe
+C:\UPC\PRO2-UPC-HOMEWORK\Examen2\Examen2\Examen_2\Examen_2\Examen_2\bin\Debug\Examen_2.pdb
+C:\UPC\PRO2-UPC-HOMEWORK\Examen2\Examen2\Examen_2\Examen_2\Examen_2\obj\Debug\Examen_2.csproj.AssemblyReference.cache
+C:\UPC\PRO2-UPC-HOMEWORK\Examen2\Examen2\Examen_2\Examen_2\Examen_2\obj\Debug\Examen_2.csproj.CoreCompileInputs.cache
+C:\UPC\PRO2-UPC-HOMEWORK\Examen2\Examen2\Examen_2\Examen_2\Examen_2\obj\Debug\Examen_2.exe
+C:\UPC\PRO2-UPC-HOMEWORK\Examen2\Examen2\Examen_2\Examen_2\Examen_2\obj\Debug\Examen_2.pdb

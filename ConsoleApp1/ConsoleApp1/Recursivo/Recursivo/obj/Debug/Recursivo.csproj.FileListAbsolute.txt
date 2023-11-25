@@ -1,0 +1,7 @@
+C:\UPC\PRO2-UPC-HOMEWORK\ConsoleApp1\ConsoleApp1\Recursivo\Recursivo\bin\Debug\Recursivo.exe.config
+C:\UPC\PRO2-UPC-HOMEWORK\ConsoleApp1\ConsoleApp1\Recursivo\Recursivo\bin\Debug\Recursivo.exe
+C:\UPC\PRO2-UPC-HOMEWORK\ConsoleApp1\ConsoleApp1\Recursivo\Recursivo\bin\Debug\Recursivo.pdb
+C:\UPC\PRO2-UPC-HOMEWORK\ConsoleApp1\ConsoleApp1\Recursivo\Recursivo\obj\Debug\Recursivo.csproj.AssemblyReference.cache
+C:\UPC\PRO2-UPC-HOMEWORK\ConsoleApp1\ConsoleApp1\Recursivo\Recursivo\obj\Debug\Recursivo.csproj.CoreCompileInputs.cache
+C:\UPC\PRO2-UPC-HOMEWORK\ConsoleApp1\ConsoleApp1\Recursivo\Recursivo\obj\Debug\Recursivo.exe
+C:\UPC\PRO2-UPC-HOMEWORK\ConsoleApp1\ConsoleApp1\Recursivo\Recursivo\obj\Debug\Recursivo.pdb
